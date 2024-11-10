@@ -1,6 +1,6 @@
 This repository is part of a group project for the module IE4483 - Artificial Intelligence & Data Mining at Nanyang Technological University (NTU). The objective of the project is to develop a machine learning-based classifier designed to analyze and classify the sentiment of product reviews. Through this project, we aim to explore various data mining techniques and AI models to accurately predict whether product reviews are positive, negative, or neutral, ultimately contributing to the broader field of sentiment analysis and natural language processing.
 
-Our group has decide to use the BERT (Bidirectional Encoder Representations from Transformers) classifier, a state-of-the-art pretrained model from Hugging Face.
+Our group has decided to use the BERT (Bidirectional Encoder Representations from Transformers) classifier, a state-of-the-art pretrained model from Hugging Face. You can find documentation on this model on the official website [BERT Documentation](https://huggingface.co/docs/transformers/en/model_doc/bert).
 
 ### Required Libraries:
 
