@@ -9,7 +9,7 @@ This repository is part of a group project for the module IE4483 - Artificial In
 5. **`numpy`**: A foundational library for numerical computing (often required by PyTorch and scikit-learn).
 6. **`tqdm`**: For progress bars (optional but commonly used with training loops).
 
-### Installation Steps:
+### Installation Steps for Windows:
 
 To install the necessary libraries, open the command prompt (CMD) and use `pip`, Python's package manager. Here's how you can install each module:
 
