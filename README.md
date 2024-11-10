@@ -1,5 +1,7 @@
 This repository is part of a group project for the module IE4483 - Artificial Intelligence & Data Mining at Nanyang Technological University (NTU). The objective of the project is to develop a machine learning-based classifier designed to analyze and classify the sentiment of product reviews. Through this project, we aim to explore various data mining techniques and AI models to accurately predict whether product reviews are positive, negative, or neutral, ultimately contributing to the broader field of sentiment analysis and natural language processing.
 
+Our group has decide to use the BERT (Bidirectional Encoder Representations from Transformers) classifier, a state-of-the-art pretrained model from Hugging Face.
+
 ### Required Libraries:
 
 1. **`pandas`**: For data manipulation and analysis.
@@ -73,7 +75,3 @@ import torch
 from transformers import BertTokenizer
 print(torch.__version__)  # Should print the installed PyTorch version
 ```
-
-If the libraries are correctly installed, there should be no errors when you run this.
-
-Let me know if you encounter any issues!
