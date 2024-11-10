@@ -1,4 +1,4 @@
-To run the provided code on a factory Windows computer, you will need to install the necessary libraries and modules. Below is a list of the required components/modules and how to install them.
+This repository is part of a group project for the module IE4483 - Artificial Intelligence & Data Mining at Nanyang Technological University (NTU). The objective of the project is to develop a machine learning-based classifier designed to analyze and classify the sentiment of product reviews. Through this project, we aim to explore various data mining techniques and AI models to accurately predict whether product reviews are positive, negative, or neutral, ultimately contributing to the broader field of sentiment analysis and natural language processing.
 
 ### Required Libraries:
 
